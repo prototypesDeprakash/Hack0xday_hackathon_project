@@ -1,6 +1,6 @@
-# Project Name
+# DigitalTwinBuilder
 
-Welcome to the **Project Name** repository! This project contains a large `.zip` file that you can download and extract to access the contents.
+Welcome to our **Project** repository! This project contains a large `.zip` file that you can download and extract to access the contents.
 
 ---
 
